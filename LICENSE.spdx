@@ -1,0 +1,7 @@
+SPDXVersion: SPDX-2.0
+DataLicense: CC0-1.0
+Creator: Fintech Open Source Foundation (FINOS)
+PackageName: Open Source Readiness Checklists
+PackageOriginator: Aaron Williamson <aaron@finos.org>
+PackageHomePage: https://github.com/finos/OSR-checklists
+PackageLicenseDeclared: CC-BY-4.0
