@@ -17,7 +17,7 @@ Document your open source stategy covering the following areas, as relevant:
 
 Establish policies for open source engagement that cover:
 
-- [ ] Usage
+- [ ] Usage of open source in internal development
 - [ ] Contribution to third-party projects
 - [ ] Distribution of open source withing proprietary products
 - [ ] Publication of in-house open source projects
