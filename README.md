@@ -21,6 +21,8 @@ Copyright 2019 Fintech Open Source Foundation (FINOS).
 
 This project is licensed under the [Creative Commons Attribution License v.4.0](LICENSE).
 
+SPDX-License-Identifier: [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0)
+
 # Acknowledgements
 
 The structure of the compliance program checklist is based partly on the structure set out in [Open Source Compliance in the Enterprise, 2nd edition](https://www.linuxfoundation.org/compliance-and-security/2018/12/open-source-compliance-in-the-enterprise/), by Ibrahim Haddad, which is a great long-form resource about building out an open source compliance program.
