@@ -1,10 +1,10 @@
-# Open Source Compliance Checklists
+# Open Source Readiness Checklists
 
 This project produces information about establishing a corporate open source compliance program -- in checklist form! There's lots of great information out there about setting up a compliance program -- ebooks, articles, the OpenChain Specification. This project seeks to capture the high-level components of an open source compliance program, as well as important processes, as checklists to be easily referenced by those building out a program.
 
 ## Contributing
 
-1. Fork it (<https://github.com/finos/OSR-checklists/fork>)
+1. Fork it (<https://github.com/finos/osr-checklists/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Read our [Community Code of Conduct](https://www.finos.org/code-of-conduct)
 4. Commit your changes (`git commit -am 'Add some foo_bar'`)
@@ -20,6 +20,8 @@ _NOTE:_ Commits and pull requests to FINOS repositories will only be accepted fr
 Copyright 2019 Fintech Open Source Foundation (FINOS).
 
 This project is licensed under the [Creative Commons Attribution License v.4.0](LICENSE).
+
+SPDX-License-Identifier: [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0)
 
 # Acknowledgements
 
