@@ -10,17 +10,19 @@ Document your open source strategy covering the following areas, as relevant:
 - [ ] Compliance strategy: high-level strategy for ensuring open source compliance across enterprise, including the process for implementing that strategy.
 - [ ] Communications stategy: how to and who will respond to open source compliance inquiries from customers, the public, and open source projects.
 - [ ] Legal & risk strategy: how legal risk will be managed as part of the open source strategy and when legal review will be required.
+- [ ] Community engagement strategy: which communities to get involved in and how; event participation.
 - [ ] M&A/corporate development: how open source compliance fits in to M&A and corporate development strategies.
 - [ ] Software procurement: how open source diligence will be managed for new software procurement (and audits of oustanding procurement).
 
 ## Policy and process
 
-Establish policies for open source engagement that cover:
+Establish policies -- and separate implementing processes -- for open source engagement that cover:
 
 - [ ] Usage of open source in internal development
-- [ ] Contribution to third-party projects
-- [ ] Distribution of open source withing proprietary products
+- [ ] Contribution to third-party projects (varying as appropriate for contributions of different significance)
+- [ ] Distribution of open source within proprietary products
 - [ ] Publication of in-house open source projects
+- [ ] Supporting approved external open source engagement efforts to ensure success
 - [ ] Auditing existing products and codebases for open source
 - [ ] Fulfillment of open source license obligations, including process for responding to requests for source code, where applicable
 
@@ -31,6 +33,9 @@ Establish a core open source review team, typically consisting of participants f
 - [ ] Risk & compliance
 - [ ] Security (information, network, application)
 - [ ] Software engineering
+- [ ] OSS Support
+- [ ] Line-of-Business head for specific requests
+- [ ] Community manager
 
 Establish a cross-functional open source policy team with representatives from every area affected by open source policies, including:
 - [ ] Legal
@@ -42,6 +47,8 @@ Establish a cross-functional open source policy team with representatives from e
 - [ ] Software Development Lifecycle
 - [ ] Network Policy
 - [ ] Internal and external communications
+- [ ] Human Resources
+- [ ] Digital Transformation
 
 Establish reporting & approval chains for key open source-related issues:
 - [ ] License approval
