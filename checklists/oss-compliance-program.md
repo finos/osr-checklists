@@ -4,7 +4,7 @@
 
 ## Strategy
 
-Document your open source stategy covering the following areas, as relevant:
+Document your open source strategy covering the following areas, as relevant:
 
 - [ ] Strategic objectives: what benefits you intend to realize through using and engaging with open source, and how.
 - [ ] Compliance strategy: high-level strategy for ensuring open source compliance across enterprise, including the process for implementing that strategy.
