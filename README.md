@@ -1,3 +1,9 @@
+[![FINOS - Archived](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-archived.svg)](https://community.finos.org/docs/governance/Software-Projects/stages/archived)
+
+This project is archived, which means that it's in read-only state; you can download and use this code, but please be aware that it may be buggy and may also contain security vulnerabilities. If you're interested to restore development activities on this project, please email help@finos.org.
+
+Please visit https://osr.finos.org/ for updated content.
+
 # Open Source Readiness Checklists
 
 This project produces information about establishing a corporate open source compliance program -- in checklist form! There's lots of great information out there about setting up a compliance program -- ebooks, articles, the OpenChain Specification. This project seeks to capture the high-level components of an open source compliance program, as well as important processes, as checklists to be easily referenced by those building out a program.
